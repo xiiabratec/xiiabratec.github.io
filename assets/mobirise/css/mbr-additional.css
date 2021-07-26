@@ -2891,6 +2891,34 @@ a {
 .cid-sEdXOmk2oL .mbr-figure iframe {
   width: 100%;
 }
+.cid-sEhjdUAqnU {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-sEhjdUAqnU .row {
+    flex-direction: column-reverse;
+  }
+  .cid-sEhjdUAqnU .mbr-figure {
+    margin-bottom: 1.5rem;
+  }
+}
+.cid-sEhjdUAqnU .row {
+  align-items: center;
+}
+@media (min-width: 992px) {
+  .cid-sEhjdUAqnU .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-sEhjdUAqnU .media-content,
+.cid-sEhjdUAqnU .mbr-figure {
+  align-self: center;
+}
+.cid-sEhjdUAqnU .mbr-figure iframe {
+  width: 100%;
+}
 .cid-sCXbO6eVlP {
   padding-top: 3rem;
   padding-bottom: 2rem;
